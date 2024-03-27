@@ -47,6 +47,7 @@ docker push peter91peter91/k8s-web-hello-ru --all-tags
  k rollout status deploy k8s-web-hello
 
 k describe deploy k8s-web-hello 
+
 --------------------------------------------------------------------
 --------------------------------------------------------------------
 создать деплоймент из файла
